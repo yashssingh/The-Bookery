@@ -1,0 +1,483 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Hilarious Tales of Everyday Life",
+    "price": 15,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 3,
+    "name": "Comedy Book",
+    "title": "Laugh Out Loud Stories",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 4,
+    "name": "Comedy Book",
+    "title": "Funny Stories for Everyone",
+    "price": 10,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 5,
+    "name": "Comedy Book",
+    "title": "Humor in Everyday Life",
+    "price": 5,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 6,
+    "name": "Comedy Book",
+    "title": "Laughs and Giggles",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 7,
+    "name": "Comedy Book",
+    "title": "Jokes and Puns",
+    "price": 20,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 8,
+    "name": "Comedy Book",
+    "title": "Hilarious Adventures",
+    "price": 8,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 9,
+    "name": "Comedy Book",
+    "title": "Funny Moments",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 10,
+    "name": "Comedy Book",
+    "title": "Laughs Galore",
+    "price": 12,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 11,
+    "name": "Comedy Book",
+    "title": "Humorous Tales",
+    "price": 7,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 12,
+    "name": "Comedy Book",
+    "title": "Giggles and Grins",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 13,
+    "name": "Comedy Book",
+    "title": "Funny Stories",
+    "price": 18,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 14,
+    "name": "Comedy Book",
+    "title": "Humor for All",
+    "price": 6,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 15,
+    "name": "Comedy Book",
+    "title": "Laugh Out Loud",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 16,
+    "name": "Comedy Book",
+    "title": "Jokes for Everyone",
+    "price": 14,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 17,
+    "name": "Comedy Book",
+    "title": "Humorous Stories",
+    "price": 9,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 18,
+    "name": "Comedy Book",
+    "title": "Funny Adventures",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 19,
+    "name": "Comedy Book",
+    "title": "Laughs and Smiles",
+    "price": 11,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 20,
+    "name": "Comedy Book",
+    "title": "Humor in Life",
+    "price": 4,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 21,
+    "name": "Comedy Book",
+    "title": "Giggles and Laughs",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 22,
+    "name": "Comedy Book",
+    "title": "Funny Moments in Life",
+    "price": 13,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 23,
+    "name": "Comedy Book",
+    "title": "Humorous Adventures",
+    "price": 3,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 24,
+    "name": "Comedy Book",
+    "title": "Laughs and Fun",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 25,
+    "name": "Comedy Book",
+    "title": "Funny Stories for All",
+    "price": 16,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 26,
+    "name": "Comedy Book",
+    "title": "Humor and Fun",
+    "price": 2,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 27,
+    "name": "Comedy Book",
+    "title": "Giggles and Fun",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 28,
+    "name": "Comedy Book",
+    "title": "Funny Tales",
+    "price": 17,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 29,
+    "name": "Comedy Book",
+    "title": "Humorous Moments",
+    "price": 1,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 30,
+    "name": "Comedy Book",
+    "title": "Laughs and Humor",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 31,
+    "name": "Comedy Book",
+    "title": "Funny Stories for Kids",
+    "price": 19,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 32,
+    "name": "Comedy Book",
+    "title": "Humor for Kids",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 33,
+    "name": "Comedy Book",
+    "title": "Laughs for Kids",
+    "price": 15,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 34,
+    "name": "Story Book",
+    "title": "Adventures in Wonderland",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 35,
+    "name": "Story Book",
+    "title": "Mystery of the Lost Island",
+    "price": 20,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 36,
+    "name": "Story Book",
+    "title": "Tales of the Ancient World",
+    "price": 5,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 37,
+    "name": "Story Book",
+    "title": "Legends of the Forest",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 38,
+    "name": "Story Book",
+    "title": "Chronicles of the Sea",
+    "price": 15,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 39,
+    "name": "Story Book",
+    "title": "Journey to the Center of the Earth",
+    "price": 10,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 40,
+    "name": "Story Book",
+    "title": "Myths and Legends",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 41,
+    "name": "Story Book",
+    "title": "Tales of the Brave",
+    "price": 25,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 42,
+    "name": "Story Book",
+    "title": "Fables and Fairy Tales",
+    "price": 7,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 43,
+    "name": "Story Book",
+    "title": "Epic Adventures",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 44,
+    "name": "Story Book",
+    "title": "Tales of the Unknown",
+    "price": 18,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 45,
+    "name": "Story Book",
+    "title": "Mysteries of the Universe",
+    "price": 12,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 46,
+    "name": "Story Book",
+    "title": "Legends of the Past",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 47,
+    "name": "Story Book",
+    "title": "Tales of the Future",
+    "price": 22,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 48,
+    "name": "Story Book",
+    "title": "Chronicles of the Unknown",
+    "price": 6,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 49,
+    "name": "Story Book",
+    "title": "Adventures of the Brave",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 50,
+    "name": "Story Book",
+    "title": "Tales of the Sea",
+    "price": 14,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 51,
+    "name": "Story Book",
+    "title": "Legends of the Sky",
+    "price": 9,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 52,
+    "name": "Story Book",
+    "title": "Chronicles of the Land",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 53,
+    "name": "Story Book",
+    "title": "Tales of the Mountains",
+    "price": 17,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 54,
+    "name": "Story Book",
+    "title": "Legends of the Desert",
+    "price": 3,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 55,
+    "name": "Story Book",
+    "title": "Chronicles of the Jungle",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 56,
+    "name": "Story Book",
+    "title": "Tales of the River",
+    "price": 16,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 57,
+    "name": "Story Book",
+    "title": "Legends of the Forest",
+    "price": 2,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 58,
+    "name": "Story Book",
+    "title": "Chronicles of the Ocean",
+    "price": 0,
+    "category": "Free",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 59,
+    "name": "Story Book",
+    "title": "Tales of the Stars",
+    "price": 19,
+    "category": "Paid",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  },
+  {
+    "id": 60,
+    "name": "Story Book",
+    "title": "Legends of the Moon",
+    "price": 1,
+    "category": "Entertainment",
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=796368c4-95a6-4a88-9967-1479417f12cc&new_detail=true"
+  }
+]
