@@ -13,6 +13,7 @@ function Freebook() {
     const getBook = async () => {
       try {
         const res = await axios.get(`${import.meta.env.REACT_API_URL}/book`);
+        console.log(res);
 
         const data = res.data.filter((data) => data.category === "Free");
         console.log(data);
